@@ -1,0 +1,5 @@
+name: genpark-iir-filter-butterworth-bilinear-transform-skill
+description: Butterworth Infinite Impulse Response (IIR) digital filter design using Bilinear Transform and s-plane pole mapping
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
