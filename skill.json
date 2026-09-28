@@ -1,0 +1,19 @@
+{
+  "name": "genpark-iir-filter-butterworth-bilinear-transform-skill",
+  "version": "1.0.0",
+  "description": "Butterworth Infinite Impulse Response (IIR) digital filter design using Bilinear Transform and s-plane pole mapping",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "iir-filter",
+    "butterworth-filter",
+    "bilinear-transform",
+    "digital-filters",
+    "dsp",
+    "frequency-filtering",
+    "python-standard-library",
+    "agent-skills",
+    "pole-zero-analysis",
+    "transfer-function"
+  ]
+}
